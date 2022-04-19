@@ -5,20 +5,20 @@ Mi nombre es Ciro, soy programador full stack con orientación al back-end, pued
 
 ## Skills
 
-##### Lenguajes De Programacion:
+#### Lenguajes De Programacion:
 - JavaScript
 - Php
 - ---
-##### Tecnologias web:
+#### Tecnologias web:
 - HTML 5
 - CSS
 - Bootstratp
 - - ---
-##### Base de Datos:
+#### Base de Datos:
 - PostgreSQL
 - MYSQL
 - --
-##### Frameworks / Librerias:
+#### Frameworks / Librerias:
 - React
 - Redux
 - Express
