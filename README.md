@@ -1,16 +1,25 @@
-### Hi there 👋
+# Ciro De Jesus Rey
+## Full Stack Developer
 
-<!--
-**cirorey20/cirorey20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mi nombre es Ciro, soy programador full stack con orientación al back-end, puedo realizar proyectos manejando un código limpio y con buenas prácticas haciendo que me sea fácil el trabajo en equipo.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### **Lenguajes De Programacion:**
+- JavaScript
+- Php
+- ---
+##### **Tecnologias web:**
+- HTML 5
+- CSS
+- Bootstratp
+- - ---
+##### **Base de Datos:**
+- PostgreSQL
+- MYSQL
+- --
+##### **Frameworks / Librerias:**
+- React
+- Redux
+- Express
+- Laravel
