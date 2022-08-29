@@ -9,7 +9,7 @@ Soy programador full stack con orientación al back-end, puedo realizar proyecto
 Me gusta aprender nuevas tecnologías y aplicarlas en proyectos en los que pueda innovar y plasmar mis ideas
                 
 ----
-<h4 align="center">Skills :star: </h4>
+<h3 align="center">Skills :star: </h3>
 
 #### Lenguajes De Programacion:
 - JavaScript
@@ -32,7 +32,7 @@ Me gusta aprender nuevas tecnologías y aplicarlas en proyectos en los que pueda
 
 ----
 
-<h4 align="center">Proyectos :purple_heart: </h4>
+<h3 align="center">Proyectos :purple_heart: </h3>
 
 #### VideogamesAPP
 
