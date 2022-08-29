@@ -10,21 +10,26 @@ Me gusta aprender nuevas tecnologías y aplicarlas en proyectos en los que pueda
                 
 ----
 <h4 align="center">Skills :star: </h4>
-#####Lenguajes de programación
-- Javascript
-- PHP
-##### Tecnologías web
+
+#### Lenguajes De Programacion:
+- JavaScript
+- Php
+- ---
+#### Tecnologias web:
 - HTML 5
-- Css
+- CSS
 - Bootstratp
-#####  Base de Datos
+- - ---
+#### Base de Datos:
 - PostgreSQL
 - MYSQL
-#####  Frameworks / Librerias
+- --
+#### Frameworks / Librerias:
 - React
 - Redux
 - Express
 - Laravel
+
 ----
 <h4 align="center">Proyectos :purple_heart: </h4>
 #####  VideogamesAPP
