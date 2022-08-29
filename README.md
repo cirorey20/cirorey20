@@ -32,14 +32,19 @@ Me gusta aprender nuevas tecnologías y aplicarlas en proyectos en los que pueda
 
 
 <h4 align="center">Proyectos :purple_heart: </h4>
-#####  VideogamesAPP
+
+#### VideogamesAPP
+
 <p align="center">
 <img src="https://media-exp1.licdn.com/dms/image/C4D2DAQFjNVniktW8tQ/profile-treasury-image-shrink_800_800/0/1657223980443?e=1662418800&v=beta&t=xp6lHOYPmjbEPeRTWqQ7J0Urwc4f5QAnnZrIaA6E-0E" width="400">
 </p>
-######  Desarrollada
+
+#### Desarrollada
+
 - React
 - Redux
 - NodeJs
 - Express
 - Sequelize
 - Passport
+
