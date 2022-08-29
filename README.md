@@ -14,12 +14,12 @@ Me gusta aprender nuevas tecnologías y aplicarlas en proyectos en los que pueda
 #### Lenguajes De Programacion:
 - JavaScript
 - Php
-- ---
+
 #### Tecnologias web:
 - HTML 5
 - CSS
 - Bootstratp
-- - ---
+
 #### Base de Datos:
 - PostgreSQL
 - MYSQL
@@ -30,7 +30,7 @@ Me gusta aprender nuevas tecnologías y aplicarlas en proyectos en los que pueda
 - Express
 - Laravel
 
-----
+
 <h4 align="center">Proyectos :purple_heart: </h4>
 #####  VideogamesAPP
 <p align="center">
