@@ -23,7 +23,7 @@ Me gusta aprender nuevas tecnologías y aplicarlas en proyectos en los que pueda
 #### Base de Datos:
 - PostgreSQL
 - MYSQL
-- --
+
 #### Frameworks / Librerias:
 - React
 - Redux
