@@ -30,6 +30,7 @@ Me gusta aprender nuevas tecnologías y aplicarlas en proyectos en los que pueda
 - Express
 - Laravel
 
+----
 
 <h4 align="center">Proyectos :purple_heart: </h4>
 
