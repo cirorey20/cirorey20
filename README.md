@@ -4,7 +4,7 @@
 <h1 align="center">
 Me llamo Ciro Rey 👋 :computer:
 </h1>
-####<center> Full Stack Developer :tw-1f49c: </center>
+<h4 align="center"> Full Stack Developer :computer: </h4>
 Soy programador full stack con orientación al back-end, puedo realizar proyectos manejando un código limpio y con buenas prácticas haciendo que me sea fácil el trabajo en equipo. 
 Me gusta aprender nuevas tecnologías y aplicarlas en proyectos en los que pueda innovar y plasmar mis ideas
                 
