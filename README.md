@@ -37,7 +37,7 @@ Me gusta aprender nuevas tecnologías y aplicarlas en proyectos en los que pueda
 #### VideogamesAPP
 
 <p align="center">
-<img src="https://media-exp1.licdn.com/dms/image/C4D2DAQFjNVniktW8tQ/profile-treasury-image-shrink_800_800/0/1657223980443?e=1662418800&v=beta&t=xp6lHOYPmjbEPeRTWqQ7J0Urwc4f5QAnnZrIaA6E-0E" width="400">
+<img src="/images/1.png" width="400">
 </p>
 
 #### Desarrollada
