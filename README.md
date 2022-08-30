@@ -29,17 +29,29 @@ Me gusta aprender nuevas tecnologías y aplicarlas en proyectos en los que pueda
 
   <div>
    <p style = 'text-align:center;'>
-     <img src="./assets/uv/1.png" width="500px">
-     <img src="./assets/uv/2.png" width="500px">
-     <img src="./assets/uv/3.png" width="500px">
-     <img src="./assets/uv/4.png" width="500px">
-     <img src="./assets/uv/5.png" width="500px">
-     <img src="./assets/uv/6.png" width="500px">
-     <img src="./assets/uv/7.png" width="500px">
-     <img src="./assets/uv/8.png" width="500px">
-     <img src="./assets/uv/9.png" width="500px">
+     <img src="./assets/uv/1.png" width="400px">
+     <img src="./assets/uv/2.png" width="400px">
+     <img src="./assets/uv/3.png" width="400px">
+     <img src="./assets/uv/4.png" width="400px">
+     <img src="./assets/uv/5.png" width="400px">
+     <img src="./assets/uv/6.png" width="400px">
+     <img src="./assets/uv/7.png" width="400px">
+     <img src="./assets/uv/8.png" width="400px">
+     <img src="./assets/uv/9.png" width="400px">
   </p>
  </div>
+
+ #### Desarrollada
+
+- React
+- Tailwindcss
+- Redux
+- Typescript
+- NodeJs
+- Express
+- Sequelize
+- Auth0
+
   </details> </td>
 </tr>
 <!-- <tr> -->
@@ -62,15 +74,28 @@ Me gusta aprender nuevas tecnologías y aplicarlas en proyectos en los que pueda
 
   <div>
    <p style = 'text-align:center;'>
-     <img src="./assets/gamesv/1.png" width="500px">
-     <img src="./assets/gamesv/2.png" width="500px">
-     <img src="./assets/gamesv/5.png" width="500px">
-     <img src="./assets/gamesv/6.png" width="500px">
-     <img src="./assets/gamesv/7.png" width="500px">
+     <img src="./assets/gamesv/1.png" width="400px">
+     <img src="./assets/gamesv/2.png" width="400px">
+     <img src="./assets/gamesv/5.png" width="400px">
+     <img src="./assets/gamesv/6.png" width="400px">
+     <img src="./assets/gamesv/7.png" width="400px">
   </p>
  </div>
+
+#### Desarrollada
+
+- React
+- Redux
+- NodeJs
+- Express
+- Sequelize
+- Passport
+
   </details> </td>
+  
 </tr>
+
+----
 
 ## Contacto
 - Email: cirorey95@gmail.com
