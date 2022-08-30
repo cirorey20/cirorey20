@@ -98,7 +98,6 @@ Me gusta aprender nuevas tecnologías y aplicarlas en proyectos en los que pueda
 ----
 
 ## Contacto
+
 - Email: cirorey95@gmail.com
 - [Ciro Rey](https://www.linkedin.com/in/cirorey/ "Enlace a mi perfil de Linkedin") en Linkedin
-
-
