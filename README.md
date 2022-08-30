@@ -52,7 +52,7 @@ Me gusta aprender nuevas tecnologías y aplicarlas en proyectos en los que pueda
 - Express
 - Sequelize
 - Passport
-
+----
 #### Universalmusic
 
 <div align="center">
