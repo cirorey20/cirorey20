@@ -11,7 +11,7 @@ Me gusta aprender nuevas tecnologías y aplicarlas en proyectos en los que pueda
 
 ----
 
-<h3 align="center">Skills :purple_heart: </h3>
+<h3 align="center">Skills :star: </h3>
 
 #### Lenguajes de Programacion
 
