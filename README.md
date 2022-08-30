@@ -1,5 +1,5 @@
 
-<img src="https://i.pinimg.com/originals/c6/3f/b4/c63fb4d45a436a3d958ce719369665c2.gif" width="850" height="300">
+<img src="https://i.pinimg.com/originals/c6/3f/b4/c63fb4d45a436a3d958ce719369665c2.gif" width="750" height="300">
 
 <h1 align="center">
 Me llamo Ciro Rey :wave:
