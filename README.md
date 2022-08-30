@@ -53,3 +53,27 @@ Me gusta aprender nuevas tecnologías y aplicarlas en proyectos en los que pueda
 - Sequelize
 - Passport
 
+#### Universalmusic
+
+<div align="center">
+<img src="/images/uv/1.png" width="400">
+  <img src="/images/uv/2.png" width="400">
+  <img src="/images/uv/3.png" width="400">
+  <img src="/images/uv/4.png" width="400">
+  <img src="/images/uv/5.png" width="400">
+  <img src="/images/uv/6.png" width="400">
+  <img src="/images/uv/7.png" width="400">
+  <img src="/images/uv/8.png" width="400">
+</div>
+
+#### Desarrollada
+
+- React
+- Tailwindcss
+- Redux
+- Typescript
+- NodeJs
+- Express
+- Sequelize
+- Auth0
+
