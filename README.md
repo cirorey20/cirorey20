@@ -3,7 +3,7 @@
 </p>
                                                                                                                 
 <h1 align="center">
-Me llamo Ciro Rey :wave:
+Me llamo Ciro Rey <img src="./assets/saludo.gif" width="10">
 </h1>
 <h3 align="center"> Full Stack Developer :computer: </h3>
 Soy programador full stack con orientación al back-end, puedo realizar proyectos manejando un código limpio y con buenas prácticas haciendo que me sea fácil el trabajo en equipo. 
