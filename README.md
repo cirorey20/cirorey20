@@ -8,8 +8,37 @@ Me llamo Ciro Rey <img src="./assets/saludo.gif" width="30">
 <h3 align="center"> Full Stack Developer :computer: </h3>
 Soy programador full stack con orientación al back-end, puedo realizar proyectos manejando un código limpio y con buenas prácticas haciendo que me sea fácil el trabajo en equipo. 
 Me gusta aprender nuevas tecnologías y aplicarlas en proyectos en los que pueda innovar y plasmar mis ideas
-                
+
 ----
+
+<h3 align="center">Skills :purple_heart: </h3>
+
+#### Lenguajes de Programacion
+
+- Javascript
+- Php
+
+#### Tecnologias Web
+
+- HTML 5
+- CSS
+- Bootstratp
+
+#### Tecnologias Base de Datos
+
+- PostgreSQL
+- Mysql
+
+#### Frameworks / Librerias
+
+- React
+- Redux
+- Express
+- Laravel
+
+
+----
+
 <h3 align="center">Proyectos :purple_heart: </h3>
 
 <tr>
