@@ -10,71 +10,70 @@ Soy programador full stack con orientación al back-end, puedo realizar proyecto
 Me gusta aprender nuevas tecnologías y aplicarlas en proyectos en los que pueda innovar y plasmar mis ideas
                 
 ----
-<h3 align="center">Skills :star: </h3>
-
-#### Lenguajes De Programacion:
-- JavaScript
-- Php
-
-#### Tecnologias web:
-- HTML 5
-- CSS
-- Bootstratp
-
-#### Base de Datos:
-- PostgreSQL
-- MYSQL
-
-#### Frameworks / Librerias:
-- React
-- Redux
-- Express
-- Laravel
-
-----
-
 <h3 align="center">Proyectos :purple_heart: </h3>
 
-#### VideogamesAPP
+<tr>
+<td>
 
-<div align="center">
-<img src="/images/1.png" width="500">
-  <img src="/images/2.png" width="500">
-  <img src="/images/5.png" width="500">
-  <img src="/images/6.png" width="500">
-  <img src="/images/7.png" width="500">
-</div>
 
-#### Desarrollada
+</td>
+<td> <h4 align="left"><code>Universal Music - Ecommerce.</code> </h4>
+  <details>
+    <summary>ver más...</summary>
+ <br />
+  <p align = "justify">Proyecto en grupo realizado para el Bootcamp Henry, esta aplicacion permite ver productos musicales de alta calidad, donde el usuario podra filtrar productos por calificacion, precio y categorias, el usuario tendra la posibilidad de agregar productos a un carrito donde solo podra realizar el pago atravez de Stripe si se registra con un correo o bien con un usuario de google. Ademas cuenta con un panel de administracion el cual permite al admin listar todos los productos, eliminar, editar y crear otros. Tambien podra ver todas las ordenes de compra que se hicieron, confirmarlas o cancelar.</p>
 
-- React
-- Redux
-- NodeJs
-- Express
-- Sequelize
-- Passport
-----
-#### Universalmusic
+  <p>Link del repo Api: <a href="https://github.com/cirorey20/api-pf-ecommerce">uv-api </a></p>
+  <p>Link del repo Client: <a href="https://github.com/cirorey20/client-pf-ecommerce"> uv-client </a></p>
+    <p>Link Web: <a href="https://universalmusic-henry.web.app/"> web-universalmusic.app </a></p>
 
-<div align="center">
-<img src="/images/uv/1.png" width="400">
-  <img src="/images/uv/2.png" width="400">
-  <img src="/images/uv/3.png" width="400">
-  <img src="/images/uv/4.png" width="400">
-  <img src="/images/uv/5.png" width="400">
-  <img src="/images/uv/6.png" width="400">
-  <img src="/images/uv/7.png" width="400">
-  <img src="/images/uv/8.png" width="400">
-</div>
+  <div>
+   <p style = 'text-align:center;'>
+     <img src="./assets/uv/1.png" width="500px">
+     <img src="./assets/uv/2.png" width="500px">
+     <img src="./assets/uv/3.png" width="500px">
+     <img src="./assets/uv/4.png" width="500px">
+     <img src="./assets/uv/5.png" width="500px">
+     <img src="./assets/uv/6.png" width="500px">
+     <img src="./assets/uv/7.png" width="500px">
+     <img src="./assets/uv/8.png" width="500px">
+     <img src="./assets/uv/9.png" width="500px">
+  </p>
+ </div>
+  </details> </td>
+</tr>
+<!-- <tr> -->
+<!-- <td> -->
 
-#### Desarrollada
+<tr>
+<td>
 
-- React
-- Tailwindcss
-- Redux
-- Typescript
-- NodeJs
-- Express
-- Sequelize
-- Auth0
+
+</td>
+<td> <h4 align="left"> <code>Videogames App.</code> </h4>
+  <details>
+    <summary>ver más...</summary>
+  <br />
+  <p align = "justify">Desarrollo de una SPA (Single-Page Application), usando ReactJS para el Front-End, y Redux para gestionar el estado de la aplicación, los componentes fueron desarrollados con CSS, sin el uso de librerías externas. La aplicación  de Videogames permite ordenar y filtrar los datos traídos de una API, y de una base de datos local, también permite crear videogames propios, y mostrar el detalle los mismos.. </p>
+
+  <p>Link del repo Api: <a href="https://github.com/cirorey20/api-rest-videogames">videogames-api </a></p>
+  <p>Link del repo Client: <a href="https://github.com/cirorey20/client-videogames"> videogames-client </a></p>
+    <p>Link Web: <a href="https://videogamesciroapp.web.app/"> web-videogames.app </a></p>
+
+  <div>
+   <p style = 'text-align:center;'>
+     <img src="./assets/gamesv/1.png" width="500px">
+     <img src="./assets/gamesv/2.png" width="500px">
+     <img src="./assets/gamesv/5.png" width="500px">
+     <img src="./assets/gamesv/6.png" width="500px">
+     <img src="./assets/gamesv/7.png" width="500px">
+  </p>
+ </div>
+  </details> </td>
+</tr>
+
+## Contacto
+- Email: cirorey95@gmail.com
+- [Ciro Rey](https://www.linkedin.com/in/cirorey/ "Enlace a mi perfil de Linkedin") en Linkedin
+
 
